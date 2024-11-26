@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Massivc\Massivc\bin\Debug\net8.0\Massivc.exe
+C:\Users\Student\source\repos\Massivc\Massivc\bin\Debug\net8.0\Massivc.deps.json
+C:\Users\Student\source\repos\Massivc\Massivc\bin\Debug\net8.0\Massivc.runtimeconfig.json
+C:\Users\Student\source\repos\Massivc\Massivc\bin\Debug\net8.0\Massivc.dll
+C:\Users\Student\source\repos\Massivc\Massivc\bin\Debug\net8.0\Massivc.pdb
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\Massivc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\Massivc.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\Massivc.AssemblyInfo.cs
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\Massivc.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\Massivc.dll
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\refint\Massivc.dll
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\Massivc.pdb
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\Massivc.genruntimeconfig.cache
+C:\Users\Student\source\repos\Massivc\Massivc\obj\Debug\net8.0\ref\Massivc.dll
